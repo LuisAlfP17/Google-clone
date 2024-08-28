@@ -127,12 +127,12 @@ main .main-input .search-icon {
     filter: grayscale(100%) brightness(0.5);
 }
 main .main-input .micro-icon {
-    background-image: url('https://w7.pngwing.com/pngs/974/464/png-transparent-google-voice-search-logo-google-voice-search-web-search-engine-google-now-google-microphone-search-engine-optimization-logo.png');
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/726px-Google_mic.svg.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    width: 25px;
-    height: 25px;
+    width: 20px;
+    height: 20px;
     margin-right: 20px;
 }
 main .main-input .leens-icon {
